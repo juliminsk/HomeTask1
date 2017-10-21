@@ -12,7 +12,6 @@ public class Calendar {
     }
     private int input() {
         System.out.println("Enter weekday number");
-        int weekDayNumber;
         while (true) {
             try {
                 Scanner scanner = new Scanner(System.in);
